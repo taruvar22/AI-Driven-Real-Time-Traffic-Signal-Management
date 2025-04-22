@@ -1,0 +1,18 @@
+=== Traffic System Setup ===
+Enter number of lanes: 4
+Enter initial number of vehicles for Lane_1: 8
+Enter initial number of vehicles for Lane_2: 3
+Enter initial number of vehicles for Lane_3: 12
+Enter initial number of vehicles for Lane_4: 5
+
+=== Running Traffic Cycle ===
+Lane_1: GREEN for 30 sec (Vehicles: 8)
+Lane_2: RED
+Lane_3: RED
+Lane_4: RED
+
+=== Traffic Update ===
+Enter current vehicles for Lane_1: 6
+Enter current vehicles for Lane_2: 7
+Enter current vehicles for Lane_3: 10
+Enter current vehicles for Lane_4: 8
